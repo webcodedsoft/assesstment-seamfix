@@ -11,7 +11,7 @@ export default class Application extends Component {
                                 <div className="nk-block">
                                     <div className="row g-gs">
 
-                                        <div className="col-xl-12 col-xxl-8">
+                                        <div className="col-xl-12 col-xxl-12">
                                             <div className="card card-bordered card-full">
                                                 <div className="card-inner-group">
                                                     <div className="card-inner position-relative card-tools-toggle height">
